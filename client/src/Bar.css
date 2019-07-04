@@ -1,0 +1,13 @@
+.Navlonk {
+    text-decoration: none !important;
+    color: #6C757D;
+    padding-left: 1rem;
+}
+.Navlonk:hover {
+    color: #5A6268;
+}
+
+.center {
+    text-align: center;
+    margin: auto;
+}

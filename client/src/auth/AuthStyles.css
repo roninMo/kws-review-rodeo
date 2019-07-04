@@ -1,0 +1,38 @@
+.landing { 
+    padding: 2rem;
+    height: 30vh;   
+}
+
+.auth-btn {
+    text-align: center;
+
+}
+.auth-btn Button {
+    width: 85px;
+    text-align: center;
+}
+
+.body {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.martop { 
+    margin-top: 1rem;
+}
+.marbot {
+    margin-bottom: 4rem;
+}
+
+.description {
+    padding: 1rem 10rem;
+}
+
+.links {
+    text-decoration: none !important;
+
+}
+
+a {
+    font-size: 1rem;
+}
